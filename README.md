@@ -1,7 +1,7 @@
 ## HOTOSM
 
-This repo exists to provide a wiki and issues for overall coordination of HOT technical interests.
+This repo exists to provide a issue tracker for overall coordination of HOT technical interests.
 
-It will be updated with contact after the second meeting of the HOT Technical working group:
+**[View the issue tracker](https://github.com/hotosm/hotosm/issues)**
 
-See http://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Technical for more info.
+See also [technical working group](http://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups/Technical) 
