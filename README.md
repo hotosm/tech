@@ -1,10 +1,10 @@
-## HOTOSM
+# Tech @ HOTOSM
 
 This repo exists to provide overall coordination of HOT technical interests and activities through the Technical Working Group.
 
 **Have a critical need or want to report a problem?** [Open an issue](https://github.com/hotosm/tech/issues) and someone will help follow up. 
 
-#### How the repo is organized:
+## How the repo is organized:
 
 [Project ideas]() - The project ideas folder can contain briefs or more in-depth write ups about project ideas. Have an idea for a project? Open an issue and tag it with the label, [Project Idea](https://github.com/hotosm/tech/labels/Project%20Idea).
 
@@ -16,7 +16,7 @@ This repo exists to provide overall coordination of HOT technical interests and 
 
 [Wiki](https://github.com/hotosm/tech/wiki) - The wiki is a place for other notes, documents, or links. For example, you can find the meeting notes and links for the Technical Working Group bi-weekly meeting in the [Meetings wiki page](https://github.com/hotosm/tech/wiki/Meetings).
 
-#### Issue tracker
+## Issue tracker
 
 Please use the issue tracker to start discussions, report problems, or leave notices about any general technical or system aministration needs related to HOT's technical infastructure.
 
