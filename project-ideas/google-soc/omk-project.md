@@ -13,15 +13,15 @@ OpenMapKit integrates with ODK to unite the collection of OSM data and private s
 
 American Red Cross has used OpenMapKit in a variety of community mapping projects including in:
 
-* Riohacha, Colombia
-* West Africa
-* Binga District, Zimbabwe
+* [Riohacha, Colombia](http://www.missingmaps.org/blog/2016/03/29/riohacha-colombia/)
+* [West Africa](http://www.missingmaps.org/blog/2016/04/25/west-africa-mapping-hub-launch/)
+* [Binga District, Zimbabwe](http://www.missingmaps.org/blog/2016/06/07/zimbabwe/)
 
 OpenMapKit has been used by Ramani Huria in Tanzania:
 
-* Mapping Dar es Salaam's Water, Sanitation and Hygiene Facilities
-* Ramani Huria Trains Secondary Students During STEM Boot Camp
-* Ramani Huria OMK Field Data Cleaning Workflow
+* [Mapping Dar es Salaam's Water, Sanitation and Hygiene Facilities](https://www.hotosm.org/updates/2016-10-19_mapping_dar_es_salaams_water_sanitation_and_hygiene_facilities)
+* [Ramani Huria Trains Secondary Students During STEM Boot Camp](http://ramanihuria.org/ramani-huria-trains/)
+* [Ramani Huria OMK Field Data Cleaning Workflow](https://wiki.openstreetmap.org/wiki/Ramani_Huria_OMK_Field_Data_Cleaning_Workflow)
 
 CartoNG conducted a benchmarking to compare a few geographic mobile data collection tools including OpenMapKit:
 http://blog.cartong.org/2017/05/05/benchmarking-mdc-tools-with-strong-gis-component/ 
@@ -32,7 +32,7 @@ Use by Humanitarian OpenStreetMap Team in:
 * Liberia
 * Uganda
 
-Continued use of OpenMapKit has resulted in improvements to the Android app as well as the larger ecosystem such as OpenMapKit Server and Portable OpenStreetMap (POSM).
+Continued use of OpenMapKit has resulted in improvements to the Android app as well as the larger ecosystem such as [OpenMapKit Server](https://github.com/posm/OpenMapKitServer#openmapkit-server) and [Portable OpenStreetMap (POSM)](https://github.com/posm/posm#posm).
 
 There are a number of desired improvements to OpenMapKit Android that have been logged by various uses as issues on the GitHub repository. Some inital scoping discussion has happened here: https://github.com/hotosm/tech/issues/98. 
 
