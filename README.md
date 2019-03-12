@@ -18,7 +18,7 @@ This repo exists to provide overall coordination of HOT technical interests and 
 
 ## Issue tracker
 
-Please use the issue tracker to start discussions, report problems, or leave notices about any general technical or system aministration needs related to HOT's technical infastructure.
+Please use the issue tracker to start discussions, report problems, or leave notices about any general technical or system administration needs related to HOT's technical infrastructure.
 
 Bug reports or feature requests for specific HOT applications should be left on the software's specific GitHub repository.
 
