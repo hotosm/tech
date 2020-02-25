@@ -53,8 +53,9 @@ Through this project you will learn about:
 **Difficulty Level**: Medium
 
 **Related readings/links**:
-https://aws.amazon.com/lambda/
-https://api.slack.com/bot-users#bots-overview
+
+* https://aws.amazon.com/lambda/
+* https://api.slack.com/bot-users#bots-overview
 
 
 **Potential Mentors**:
