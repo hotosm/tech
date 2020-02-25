@@ -34,8 +34,6 @@ You will work alongside our tech team and be exposed to:
 [Ramya Ragupathy](https://www.hotosm.org/people/ramya-ragupathy/)
 
 
-#### Refactor code for website statistics collector
-
 ### Slackbot Router
 
 Project Description: Slack is central to all our commincations within and outside the oeganisations. This project involves creating a simple routing app that will be triggered when someone runs a slack command and return the right results based on the command.
