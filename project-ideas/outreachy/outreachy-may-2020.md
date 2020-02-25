@@ -18,9 +18,10 @@ The project will provide exposure to:
 
  
 **Skills**: Python, DBMS, Documentation, Curiosity :cat: and lots of perseverance :trophy: <br>
-Difficulty Level: Advanced
 
-Related readings/links: 
+**Difficulty Level**: Advanced
+
+**Related readings/links**: 
 
 * https://github.com/hotosm/tasking-manager/ 
 * https://github.com/hotosm/tasking-manager/issues/2303 
