@@ -17,14 +17,18 @@ The project will provide exposure to:
 * An active Open Source geospatial community
 
  
-Skills: Python, DBMS, Documentation, Curiosity :cat:</br> 
-Difficulty Level: Medium to Advanced
+**Skills**: Python, DBMS, Documentation, Curiosity :cat: and lots of perseverance :trophy: <br>
+Difficulty Level: Advanced
 
-Related readings/links:
-https://github.com/hotosm/tasking-manager/issues/2303
+Related readings/links: 
+
+* https://github.com/hotosm/tasking-manager/ 
+* https://github.com/hotosm/tasking-manager/issues/2303 
+* http://tasks.hotosm.org/ 
+* http://tm4.hotosm.org/ 
 
 
-Potential Mentors:
+**Potential Mentors**:
 
 [Felix Delattre](https://www.hotosm.org/people/felix-delattre/) <br>
 [Ramya Ragupathy](https://www.hotosm.org/people/ramya-ragupathy/)
