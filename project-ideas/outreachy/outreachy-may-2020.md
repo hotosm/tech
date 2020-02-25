@@ -3,11 +3,10 @@
 #### Tasking Manager: Optimize API Performance
 
 Project Description: Tasking Manager (TM) is a tool for collaborative editing on [OpenStreetMap](https://openstreetmap.org/).
-Our current version of the tool - TM V3 is hosted on http://tasks.hotosm.org/. We're currently in the midst of Version 4 release
-which involves a significant ugrade to the frontend framework - porting from Angular JS to React JS framework.
-As a next step our focus is to identify, understand and optimise TM's backend performance
+Our current version of the tool - TM V3 is hosted on http://tasks.hotosm.org/. We're currently in the midst of Version 4 release which involves a significant ugrade to the frontend framework - porting from Angular JS to React JS framework.
+As a next step our focus is to identify, understand and optimise TM's backend performance.
 
-The project will provide exposure to:
+You will work alongside our tech team and be exposed to:
 
 * Our codebase in Flask microframework
 * PostgreSQL Database
