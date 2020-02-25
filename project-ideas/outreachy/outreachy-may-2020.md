@@ -34,14 +34,14 @@ You will work alongside our tech team and be exposed to:
 [Ramya Ragupathy](https://www.hotosm.org/people/ramya-ragupathy/)
 
 
-### Slackbot Router
+### Build a Slackbot Router
 
-Project Description: Slack is central to all our commincations within and outside the oeganisations. This project involves creating a simple routing app that will be triggered when someone runs a slack command and return the right results based on the command.
+Project Description: Slack is central to all our commincations within and outside the organisations. This project involves creating a simple routing app that will be triggered when someone runs a slack command and return the right results based on the command.
 
 We could have slackbot mapped to slack commands for the following use cases:
 
 * to know if a HOT application is operational
-* provide user and project statistics on a specifc HOT Project
+* provide user and project statistics on a specific HOT Project
 * provide suspicious changeset summary for HOT Projects on TM
 
 Through this project you will learn about:
@@ -58,7 +58,8 @@ https://api.slack.com/bot-users#bots-overview
 
 
 **Potential Mentors**:
-[Ramya Ragupathy](https://www.hotosm.org/people/ramya-ragupathy/)
+
+[Ramya Ragupathy](https://www.hotosm.org/people/ramya-ragupathy/)<br>
 [Dakota Benjamin](https://www.hotosm.org/people/dakota-benjamin/)
 
 ### HOT Product Evaluation: Human Centred, User Experience Design
