@@ -4,4 +4,4 @@ Place for organizing and listing project ideas. Discussions and idea generation 
 
 * See [google-soc](https://github.com/hotosm/tech/tree/master/project-ideas/google-soc) for specific Google Summer of Code opportunities.
 
-* See [outreachy](https://github.com/hotosm/tech/tree/master/project-ideas/outreachy) for specific Google Summer of Code opportunities.
+* Check out [outreachy](https://github.com/hotosm/tech/tree/master/project-ideas/outreachy) folder for Outreachy project ideas.
