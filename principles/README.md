@@ -1,9 +1,20 @@
-# Principles
+# Ethics and Principles
+
+**Ethics:**
+***Human*** | Our Human ethic is our commitment to people as our priority. At the centre of all our technology sits a human. The ultimate purpose of our technology is to improve human conditions. We use technology to enable and amplify real human efforts.
+
+***Open*** | Our Open ethic permeates all we do. Our actions  reflect radical openness and transparency. We encourage open inputs and outputs. Our team and technology openly welcomes and engages cooperation, collaboration and contributions.
+
+***Truth*** | Our Truth ethic reflects an OpenStreetMap core principle; the ‘truth on the ground’. Our activities and decisions will be guided by this ethic, where not easily resolved will defer to this as a core principle in order to define what best reflects the truth on the ground.
+ 
 
 When we know our principles, our decisions are easy. Our actions are motivated by the principles that unite and guide us. This is what HOT_Tech is built on.
 
+**Principles:*
+When we know our principles, our decisions are easy. Our actions are motivated by the principles that unite and guide us. This is what HOT_Tech is built on.
+
 1. Cultivate our collective // To go fast go alone, to go far, go together. 
-Our first principle is our first priority.  We are collaborative at our core. We apply self-regulation and welcome open contribution, review and feedback. Our contributions enrich the ecosystem and contribute to common goals.
+Our first principle is our first priority.  We are collaborative at our core. We apply self-regulation and welcome open contribution, review and feedback. We support our teams at personal and professional levels. We invest in their well-being and their growth. We provide security and stability. We empower the lowest user in the stack. Our contributions will enrich the ecosystem and contribute to common goals. When our people thrive, so do we.
 
 2. Respect our resources // A society grows when people plant trees whose shade under which they will never sit. 
 We never take what we have for granted. We are lean in principle and practice. We work to collect resources when they are available and use them in times of need. We value and use resources and services that can be renewed and reused. We aim to obtain a yield that can be reinvested in our future. We ensure energy invested is energy returned. Think tomorrow, act today, sustainability for seven generations.
@@ -11,7 +22,7 @@ We never take what we have for granted. We are lean in principle and practice. W
 3. Include with intention // If we don’t intentionally include, we will unintentionally exclude. 
 Inclusion begins with intention. We acknowledge that something can be normal, without being average. We use and value the edges and the marginal, because we believe the edge is where the action is. Greater voices create greater harmonies. Through diversity comes resilience. 
 
-4. Experiment to evolve // Follow the evidence wherever it leads
+4. Empirically evolve // Follow the evidence wherever it leads
 We evolve through experimentation, empiricism and evidence. We build, measure, learn and grow. Data drives our decision making. We value reason, logic and rationale, particularly when practiced in discussion and debate. 
 
 5. Interoperable Autonomy // The art of working independently, together
