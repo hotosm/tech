@@ -11,8 +11,9 @@
 
 When we know our principles, our decisions are easy. Our actions are motivated by the principles that unite and guide us. This is what HOT_Tech is built on.
 
-**Principles:*
-When we know our principles, our decisions are easy. Our actions are motivated by the principles that unite and guide us. This is what HOT_Tech is built on.
+**Principles:**
+
+*When we know our principles, our decisions are easy. Our actions are motivated by the principles that unite and guide us. This is what HOT_Tech is built on.*
 
 1. Cultivate our collective // To go fast go alone, to go far, go together. 
 Our first principle is our first priority.  We are collaborative at our core. We apply self-regulation and welcome open contribution, review and feedback. We support our teams at personal and professional levels. We invest in their well-being and their growth. We provide security and stability. We empower the lowest user in the stack. Our contributions will enrich the ecosystem and contribute to common goals. When our people thrive, so do we.
