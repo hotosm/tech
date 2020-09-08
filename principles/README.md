@@ -9,8 +9,6 @@
 ***Truth*** | Our Truth ethic reflects an OpenStreetMap core principle; the ‘truth on the ground’. Our activities and decisions will be guided by this ethic, where not easily resolved will defer to this as a core principle in order to define what best reflects the truth on the ground.
  
 
-When we know our principles, our decisions are easy. Our actions are motivated by the principles that unite and guide us. This is what HOT_Tech is built on.
-
 **Principles:**
 
 *When we know our principles, our decisions are easy. Our actions are motivated by the principles that unite and guide us. This is what HOT_Tech is built on.*
