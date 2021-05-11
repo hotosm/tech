@@ -6,7 +6,7 @@
 
 ***Open*** | Our Open ethic permeates all we do. Our actions  reflect radical openness and transparency. We encourage open inputs and outputs. Our team and technology openly welcomes and engages cooperation, collaboration and contributions.
 
-***Truth*** | Our Transformative ethic speaks to our belief that technology can change the world, for the better. By investing time and resources in those who develop technologies that intentionally build equity, we believe this creates a dent in systematic discrimination long rife in the global tech sector.
+***TRansformative*** | Our Transformative ethic speaks to our belief that technology can change the world, for the better. By investing time and resources in those who develop technologies that intentionally build equity, we believe this creates a dent in systematic discrimination long rife in the global tech sector.
  
 
 **Principles:**
