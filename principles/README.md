@@ -11,7 +11,7 @@
 
 **Principles:**
 
-*When we know our principles, our decisions are easy. Our actions are motivated by the principles that unite and guide us. This is what HOT_Tech is built on.*
+*When we know our principles, our decisions are easy. Our actions are motivated by the principles that unite and guide us. This is what hot_tech is built on.*
 
 1. Collective Centric // _To go fast go alone, to go far, go together._ 
 Our first principle is our first priority.  We are collaborative at our core. We apply self-regulation and welcome open contribution, review and feedback. We support our collectives professionally and personally. We invest in their well-being and their growth. We provide security and stability. We empower the lowest user in the stack. When our collective thrives, so do we.
