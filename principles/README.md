@@ -2,7 +2,7 @@
 
 **Ethics:**
 
-***Human*** | Our Human ethic is our commitment to people as our priority. At the centre of all our technology sits a human. The ultimate purpose of our technology is to improve human conditions. We use technology to enable and amplify real human efforts.
+***Human[itarian]*** | Our Human[itarian] ethic is our commitment to people as our priority. At the centre of all our technology sits a human. The ultimate purpose of our technology is to improve human conditions. We use technology to enable and amplify real human efforts. Human first, [itarians] next.
 
 ***Open*** | Our Open ethic permeates all we do. Our actions  reflect radical openness and transparency. We encourage open inputs and outputs. Our team and technology openly welcomes and engages cooperation, collaboration and contributions.
 
