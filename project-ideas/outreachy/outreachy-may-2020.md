@@ -36,7 +36,7 @@ You will work alongside our tech team and be exposed to:
 
 ### Build a Slackbot Router
 
-Project Description: Slack is central to all our communcations within and outside our organisation. This project involves creating a simple routing app that will be triggered when someone runs a slack command and return the right results based on the command.
+Project Description: Slack is central to all our communications within and outside our organisation. This project involves creating a simple routing app that will be triggered when someone runs a slack command and return the right results based on the command.
 
 We could have slackbot mapped to slack commands for the following use cases:
 
