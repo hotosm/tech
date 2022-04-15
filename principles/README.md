@@ -23,7 +23,7 @@ Inclusion begins with intention. We acknowledge that things can be normal, witho
 3. Human centred design // _An instrument is only musical to someone who can play it_  
 We design to solve human problems. We design from patterns to details. We design experiences that foster the well-being of our collectives.  We design digital spaces where humans belong.
 
-4. agile to amplify // _Respond to things as they are, not as they might be._  
+4. Agile to amplify // _Respond to things as they are, not as they might be._  
 We can’t predict the future, but we can contribute to it, together. We observe and interact. We embrace change. We are not afraid to fail, learn and adjust in order to adapt. We conscientiously and continuously evolve our products and our people. 
 
 5. Interoperable Autonomy //_The art of working independently, together_  
@@ -40,4 +40,4 @@ We evolve through experimentation, empiricism and evidence. We build, measure, l
 
 9. Data depth // _Behind every piece of data is a story_  
 We want to use our data to share untold stories. We make the vulnerable visible and amplify their voice. We want our data to be as deep as it is broad. We want our data to be open, accessible and engaging. We want our data to inspire and support action.
-ch
+
